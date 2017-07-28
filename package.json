@@ -1,0 +1,19 @@
+{
+  "name": "home-page",
+  "version": "1.0.0",
+  "description": "jessis's home page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessie55/homePage.git"
+  },
+  "author": "jessis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessie55/homePage/issues"
+  },
+  "homepage": "https://github.com/jessie55/homePage#readme"
+}
